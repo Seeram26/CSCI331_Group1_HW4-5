@@ -10,10 +10,10 @@ This repository contains the group work for Homework 4 & 5 using the WideWorldIm
 - Youlun Wang
 
 ## Contents
-- `Documents` → Gantt chart and To-do list 
+- `Documents` → Gantt chart and To-do list and FootNotes
 - `Notebooks(.ipynb)` → Each member’s `.ipynb` file with propositions and SQL queries.
    Please save your file as: "Individual_GroupNumber_HW#_MemberName.PYNB" and upload it here. 
-- `Videos` → MP4 recordings of each member’s presentation.
+- `Videos` → Youtube recordings of each groups work.
 
 ## Submission
 - Individual files are inside respective folders.
